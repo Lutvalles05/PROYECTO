@@ -1,0 +1,16 @@
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico Nº2\Ejercicio Nº1\bin\Debug\Ejercicio Nº1.exe.config
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico Nº2\Ejercicio Nº1\bin\Debug\Ejercicio Nº1.exe
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico Nº2\Ejercicio Nº1\bin\Debug\Ejercicio Nº1.pdb
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico Nº2\Ejercicio Nº1\obj\Debug\Ejercicio Nº1.csproj.AssemblyReference.cache
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico Nº2\Ejercicio Nº1\obj\Debug\Ejercicio Nº1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico Nº2\Ejercicio Nº1\obj\Debug\Ejercicio Nº1.csproj.CoreCompileInputs.cache
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico Nº2\Ejercicio Nº1\obj\Debug\Ejercicio Nº1.exe
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico Nº2\Ejercicio Nº1\obj\Debug\Ejercicio Nº1.pdb
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico N2\eje1-tp2\bin\Debug\Ejercicio Nº1.exe.config
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico N2\eje1-tp2\bin\Debug\Ejercicio Nº1.exe
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico N2\eje1-tp2\bin\Debug\Ejercicio Nº1.pdb
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico N2\eje1-tp2\obj\Debug\Ejercicio Nº1.csproj.AssemblyReference.cache
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico N2\eje1-tp2\obj\Debug\Ejercicio Nº1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico N2\eje1-tp2\obj\Debug\Ejercicio Nº1.csproj.CoreCompileInputs.cache
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico N2\eje1-tp2\obj\Debug\Ejercicio Nº1.exe
+C:\Users\Lutmila Valles\OneDrive\Escritorio\Proyecto\Trabajo Practico N2\eje1-tp2\obj\Debug\Ejercicio Nº1.pdb

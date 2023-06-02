@@ -1,0 +1,8 @@
+C:\Users\Lutmila Valles\OneDrive\Escritorio\proyecto\Trabajo Practico Nº2\Ejercicio N º 5\bin\Debug\Ejercicio N º 5.exe.config
+C:\Users\Lutmila Valles\OneDrive\Escritorio\proyecto\Trabajo Practico Nº2\Ejercicio N º 5\bin\Debug\Ejercicio N º 5.exe
+C:\Users\Lutmila Valles\OneDrive\Escritorio\proyecto\Trabajo Practico Nº2\Ejercicio N º 5\bin\Debug\Ejercicio N º 5.pdb
+C:\Users\Lutmila Valles\OneDrive\Escritorio\proyecto\Trabajo Practico Nº2\Ejercicio N º 5\obj\Debug\Ejercicio N º 5.csproj.AssemblyReference.cache
+C:\Users\Lutmila Valles\OneDrive\Escritorio\proyecto\Trabajo Practico Nº2\Ejercicio N º 5\obj\Debug\Ejercicio N º 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lutmila Valles\OneDrive\Escritorio\proyecto\Trabajo Practico Nº2\Ejercicio N º 5\obj\Debug\Ejercicio N º 5.csproj.CoreCompileInputs.cache
+C:\Users\Lutmila Valles\OneDrive\Escritorio\proyecto\Trabajo Practico Nº2\Ejercicio N º 5\obj\Debug\Ejercicio N º 5.exe
+C:\Users\Lutmila Valles\OneDrive\Escritorio\proyecto\Trabajo Practico Nº2\Ejercicio N º 5\obj\Debug\Ejercicio N º 5.pdb
